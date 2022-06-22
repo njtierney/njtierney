@@ -2,6 +2,9 @@
 
 I'm a research software engineer at the [Telethon Kids Institute](https://www.telethonkids.org.au/), working with [Nick Golding](https://www.telethonkids.org.au/contact-us/our-people/g/nick-golding/) to improve data analysis with open source software.
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=njtierney)
+
  - 🛠️ I help maintain the [greta](https://github.com/greta-dev/greta) software for statistical modelling
  - 🦠 I’m working on creating pipelines for disease modelling
  - :book: I'm currently working on a book on Missing Data
