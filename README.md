@@ -4,8 +4,9 @@ I'm a freelance statistician and [research software engineer](https://researchso
 
 My primary goal is to to improve data analysis with free open source software.
 
- - 🗒️ From May 2025, I am available to work on projects involving 
+ - 🗒️ I am available to work as a consultant on projects involving 
  data analytics, modelling, code review, research software engineering, R package development, targets pipelines, teaching, mentoring and R coaching.
+ - My work load is currently full and there will be some availability starting mid July, 2025
  - I am also available to teach courses on Quarto (see [Quarto for scientists](https://qmd4sci.njtierney.com/)), and R package essentials.
  - :computer: Mostly program in R
  - 😄 Pronouns: He / Him
